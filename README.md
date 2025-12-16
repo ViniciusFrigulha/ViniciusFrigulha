@@ -2,7 +2,7 @@
 
 I'm Vinicius, a Computer Science graduate based in Brazil <img src="https://flagcdn.com/w20/br.png" alt="Brazil" />
 
-💻 Software Developer (in progress)  
+💻 IT Consultant | Software Developer
 🎯 Seeking remote opportunities with global teams
 
 ---
