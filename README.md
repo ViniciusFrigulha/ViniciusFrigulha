@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**ViniciusFrigulha/ViniciusFrigulha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vinicius, a Computer Science student based in Brazil <img src="https://flagcdn.com/w20/br.png" alt="Brazil" />
 
-Here are some ideas to get you started:
+💻 Software Developer (in progress)  
+🎯 Seeking remote opportunities with global teams
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Skills
+- JavaScript / TypeScript  
+- Node.js  
+- React / React Native  
+- PostgreSQL  
+- REST APIs  
+- Git & GitHub  
+- Figma  
+- Python (learning on Ûdemy)
+
+---
+
+## 🌎 Language Proficiency
+- 🇧🇷 Portuguese — Native  
+- 🇺🇸 English — Advanced (professional working proficiency)  
+- 🇮🇹 Italian — Beginner (currently learning)  
+- 🇩🇪 German — Beginner (currently learning)  
+- 🇫🇷 French — Next goal  
+
+---
+
+## 📚 Currently Learning
+- AWS (Skill Builder)  
+- Software Architecture & Best Practices  
+
+---
+
+## 🎯 Career Goals
+- Work remotely for international companies  
+
+---
+
+## 😄 Fun Facts About Me
+- 🌍 I love learning new languages and exploring different cultures  
+- 🧮 I enjoy solving Math and Physics problems  
+- 🚀 I like turning complex problems into simple solutions  
+- 🧠 I value discipline, consistency, and continuous learning  
+- ☕ Coffee + code is my favorite combo  
+
+---
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/your-profile  
+- Instagram: https://www.instagram.com/viniciusfrigulha/  
+- Email: viniciusfrigulha@gmail.com  
