@@ -35,11 +35,6 @@ I'm Vinicius, a Computer Science graduate based in Brazil <img src="https://flag
 
 ---
 
-## 🎯 Career Goals
-- Work remotely for international companies  
-
----
-
 ## 😄 Fun Facts About Me
 - 🌍 I love learning new languages and exploring different cultures  
 - 🧮 I enjoy solving Math and Physics problems  
