@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm Vinicius, a Computer Science student based in Brazil <img src="https://flagcdn.com/w20/br.png" alt="Brazil" />
+I'm Vinicius, a Computer Science graduate based in Brazil <img src="https://flagcdn.com/w20/br.png" alt="Brazil" />
 
 💻 Software Developer (in progress)  
 🎯 Seeking remote opportunities with global teams
