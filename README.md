@@ -14,8 +14,6 @@ I'm Vinicius, a Computer Science graduate based in Brazil <img src="https://flag
 - React / React Native  
 - PostgreSQL  
 - REST APIs  
-- Git & GitHub  
-- Figma  
 - Python (learning on Ûdemy)
 
 ---
